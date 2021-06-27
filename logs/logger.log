@@ -1,0 +1,48 @@
+[INFO ] 2021-06-27 13:43:31.931 [main] InterestCalculatorStepDef - Chrome browser started
+[INFO ] 2021-06-27 13:43:36.838 [main] InterestCalculatorStepDef - Application URL : https://www.commbank.com.au/
+[INFO ] 2021-06-27 13:43:49.200 [main] InterestCalculatorStepDef - Expected Page Title : Repayments Calculator
+[INFO ] 2021-06-27 13:43:49.201 [main] InterestCalculatorStepDef - Actual Page Title : Repayments Calculator
+[INFO ] 2021-06-27 13:43:49.207 [main] InterestCalculatorStepDef - Loan amount : 200000
+[INFO ] 2021-06-27 13:43:49.510 [main] InterestCalculatorStepDef - Loan period : 20
+[INFO ] 2021-06-27 13:43:49.747 [main] InterestCalculatorStepDef - Repayment Type : Interest only 2 years
+[INFO ] 2021-06-27 13:43:50.029 [main] InterestCalculatorStepDef - Interest rate : 4.34% p.a. Standard Variable Rate Home Loan
+[INFO ] 2021-06-27 13:43:50.461 [main] InterestCalculatorStepDef - Expected Loan Repayment Amount : $294,909
+[INFO ] 2021-06-27 13:43:50.462 [main] InterestCalculatorStepDef - Actual Loan Repayment Amount : $294,909
+[INFO ] 2021-06-27 13:43:50.504 [main] InterestCalculatorStepDef - Expected Interest Amount : $94,909
+[INFO ] 2021-06-27 13:43:50.505 [main] InterestCalculatorStepDef - Actual Interest Amount : $94,909
+[INFO ] 2021-06-27 13:43:52.469 [main] InterestCalculatorStepDef - Chrome browser started
+[INFO ] 2021-06-27 13:43:57.499 [main] InterestCalculatorStepDef - Application URL : https://www.commbank.com.au/
+[INFO ] 2021-06-27 13:44:08.340 [main] InterestCalculatorStepDef - Expected Page Title : Repayments Calculator
+[INFO ] 2021-06-27 13:44:08.340 [main] InterestCalculatorStepDef - Actual Page Title : Repayments Calculator
+[INFO ] 2021-06-27 13:44:08.341 [main] InterestCalculatorStepDef - Loan amount : 100000
+[INFO ] 2021-06-27 13:44:08.597 [main] InterestCalculatorStepDef - Loan period : 30
+[INFO ] 2021-06-27 13:44:08.814 [main] InterestCalculatorStepDef - Repayment Type : Interest only 4 years
+[INFO ] 2021-06-27 13:44:09.004 [main] InterestCalculatorStepDef - Interest rate : 3.69% p.a. Extra Home Loan 10% deposit
+[INFO ] 2021-06-27 13:44:09.345 [main] InterestCalculatorStepDef - Expected Loan Repayment Amount : $161,033
+[INFO ] 2021-06-27 13:44:09.345 [main] InterestCalculatorStepDef - Actual Loan Repayment Amount : $161,033
+[INFO ] 2021-06-27 13:44:09.388 [main] InterestCalculatorStepDef - Expected Interest Amount : $61,033
+[INFO ] 2021-06-27 13:44:09.388 [main] InterestCalculatorStepDef - Actual Interest Amount : $61,033
+[INFO ] 2021-06-27 17:27:36.048 [main] InterestCalculatorStepDef - Chrome browser started
+[INFO ] 2021-06-27 17:27:42.309 [main] InterestCalculatorStepDef - Application URL : https://www.commbank.com.au/
+[INFO ] 2021-06-27 17:27:50.705 [main] InterestCalculatorStepDef - Expected Page Title : Repayments Calculator
+[INFO ] 2021-06-27 17:27:50.705 [main] InterestCalculatorStepDef - Actual Page Title : Repayments Calculator
+[INFO ] 2021-06-27 17:27:50.709 [main] InterestCalculatorStepDef - Loan amount : 200000
+[INFO ] 2021-06-27 17:27:50.945 [main] InterestCalculatorStepDef - Loan period : 20
+[INFO ] 2021-06-27 17:27:51.175 [main] InterestCalculatorStepDef - Repayment Type : Interest only 2 years
+[INFO ] 2021-06-27 17:27:51.383 [main] InterestCalculatorStepDef - Interest rate : 4.34% p.a. Standard Variable Rate Home Loan
+[INFO ] 2021-06-27 17:27:51.758 [main] InterestCalculatorStepDef - Expected Loan Repayment Amount : $294,909
+[INFO ] 2021-06-27 17:27:51.759 [main] InterestCalculatorStepDef - Actual Loan Repayment Amount : $294,909
+[INFO ] 2021-06-27 17:27:51.803 [main] InterestCalculatorStepDef - Expected Interest Amount : $94,909
+[INFO ] 2021-06-27 17:27:51.803 [main] InterestCalculatorStepDef - Actual Interest Amount : $94,909
+[INFO ] 2021-06-27 17:27:53.759 [main] InterestCalculatorStepDef - Chrome browser started
+[INFO ] 2021-06-27 17:27:57.345 [main] InterestCalculatorStepDef - Application URL : https://www.commbank.com.au/
+[INFO ] 2021-06-27 17:28:04.121 [main] InterestCalculatorStepDef - Expected Page Title : Repayments Calculator
+[INFO ] 2021-06-27 17:28:04.121 [main] InterestCalculatorStepDef - Actual Page Title : Repayments Calculator
+[INFO ] 2021-06-27 17:28:04.123 [main] InterestCalculatorStepDef - Loan amount : 100000
+[INFO ] 2021-06-27 17:28:04.395 [main] InterestCalculatorStepDef - Loan period : 30
+[INFO ] 2021-06-27 17:28:04.591 [main] InterestCalculatorStepDef - Repayment Type : Interest only 4 years
+[INFO ] 2021-06-27 17:28:04.788 [main] InterestCalculatorStepDef - Interest rate : 3.69% p.a. Extra Home Loan 10% deposit
+[INFO ] 2021-06-27 17:28:05.161 [main] InterestCalculatorStepDef - Expected Loan Repayment Amount : $161,033
+[INFO ] 2021-06-27 17:28:05.161 [main] InterestCalculatorStepDef - Actual Loan Repayment Amount : $161,033
+[INFO ] 2021-06-27 17:28:05.206 [main] InterestCalculatorStepDef - Expected Interest Amount : $61,033
+[INFO ] 2021-06-27 17:28:05.207 [main] InterestCalculatorStepDef - Actual Interest Amount : $61,033
