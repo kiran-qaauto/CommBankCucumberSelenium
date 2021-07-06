@@ -9,6 +9,7 @@ import io.cucumber.java.en.When;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -60,6 +61,7 @@ public class InterestCalculatorStepDef {
     @When("I click on Repayments calculator")
     public void iClickOn() {
         commonBankHomePage = new CommonBankHomePage(driver);
+        driver.findElement(By.linkText("Dismiss")).click();
         repaymentCalculatorPage = commonBankHomePage.clickOnRepaymentCalculator();
     }
 

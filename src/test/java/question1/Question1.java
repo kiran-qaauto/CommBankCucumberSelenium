@@ -2,9 +2,11 @@ package question1;
 
 import java.io.FileWriter;
 import java.io.IOException;
+import java.math.BigInteger;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
@@ -37,7 +39,20 @@ public class Question1 {
                 String[] split = each.split("\\[");
                 csvWriter.append(split[0].trim());
                 csvWriter.append(",");
-                csvWriter.append(split[1].replace("]", ""));
+                String voidValue = split[1].replace("]", "");
+                String aVoid = voidValue.replaceAll("void", "");
+                System.out.println(aVoid);
+                String[] s = aVoid.split(" ");
+                System.out.println(Arrays.toString(s));
+                System.out.println(s[1].trim());
+//                BigInteger value = new BigInteger(s[1].trim(), 16);
+//                System.out.println(value);
+                Long number = Long.decode(s[1].trim());
+                System.out.println(number);
+
+
+//                csvWriter.append(split[1].replace("]", ""));
+//                csvWriter.append((char) parseInt);
                 csvWriter.append("\n");
             }
         }
